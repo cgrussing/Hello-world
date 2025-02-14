@@ -8,6 +8,8 @@ My first repository
 
 - Bullet
 - Bullet 2
+- Bullet 3
+- Bullet 4
   
 
 ## Table of contents
