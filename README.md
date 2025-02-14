@@ -15,10 +15,10 @@ My first repository
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-  ## March Madness Data
+## March Madness Data
 
-  *Sample text*
+*Sample text*
 
-  ## Description
+## Description
 
-  *Sample text*
+*Sample text*
